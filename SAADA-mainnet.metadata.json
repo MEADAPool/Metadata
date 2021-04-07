@@ -1,6 +1,6 @@
 {
-  "name": "SAADA Stake Pool",
-  "description": "This pool is dedicated to growing the the Cardano Community in the Middle East",
+  "name": "SAADA Pool",
+  "description": "A stake pool for the Ada holder in the Middle East",
   "ticker": "SAADA",
   "homepage": "https://www.sa-ada.com",
   "extended": "https://git.io/JYNKH"
